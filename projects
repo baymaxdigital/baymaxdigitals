@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Past Projects | Baymax Digitals</title>
+  <meta name="description" content="A selection of concept and sample projects showcasing the expertise of Baymax Digitals.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b1c2d;
+      color: #ffffff;
+    }
+    header {
+      padding: 50px 20px;
+      text-align: center;
+      background: #081826;
+    }
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    .project {
+      background: #11293f;
+      padding: 25px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    h1, h2 {
+      color: #60a5fa;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Past Projects</h1>
+  <p>Sample and concept projects demonstrating strategy, design, and execution.</p>
+</header>
+
+<section>
+  <div class="project">
+    <h2>Ecommerce Website Concept</h2>
+    <p>A modern ecommerce website concept focused on clean UI, mobile optimization, and conversion-driven design.</p>
+  </div>
+
+  <div class="project">
+    <h2>Shopify Store Optimization</h2>
+    <p>Concept project showcasing product optimization, store structure improvements, and customer experience flow.</p>
+  </div>
+
+  <div class="project">
+    <h2>SEO Growth Strategy</h2>
+    <p>SEO roadmap demonstrating keyword research, technical improvements, and long-term traffic planning.</p>
+  </div>
+</section>
+
+</body>
+</html>
